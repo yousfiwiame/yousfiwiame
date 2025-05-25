@@ -1,9 +1,8 @@
 # Hi there, I'm Wiame Yousfi! 👋
 
 <p align="center">
-  <img src="https://media.tenor.com/fusk7TJ28tIAAAAi/cat.gif" alt="Cat Sticker">
+  <img src="https://media.tenor.com/fusk7TJ28tIAAAAi/cat.gif" alt="Cat Sticker" width="200" />
 </p>
-
 
 
 ## 🎓 About Me
